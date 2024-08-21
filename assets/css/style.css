@@ -1,48 +1,38 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
-
-:root {
-  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-  --foreground-default: #333;
-  --background-default: #fff;
-  --background-secondary: #f7f7f7;
-}
-
-html, body {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-html {
-  font-size: 16px;
-  line-height: 1.5;
-}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
 body {
-  font-family: var(--font-sans);
-  color: var(--foreground-default);
-  background: var(--background-default);
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
+  font-family: 'Inter', sans-serif;
+  background-color: #f0f2f5;
+  color: #333;
+  line-height: 1.6;
   padding: 2rem;
-  max-width: 800px;
-  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
 }
 
-h1, h2, h3 {
-  font-weight: 700;
+.card {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  max-width: 600px;
+  width: 100%;
 }
 
 h1 {
   font-size: 2.5rem;
+  color: #1a73e8;
+  margin-top: 0;
   margin-bottom: 1rem;
 }
 
 h2 {
-  font-size: 1.75rem;
-  margin-top: 2rem;
-  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 
 p {
@@ -50,7 +40,7 @@ p {
 }
 
 a {
-  color: #0066cc;
+  color: #1a73e8;
   text-decoration: none;
 }
 
@@ -58,20 +48,19 @@ a:hover {
   text-decoration: underline;
 }
 
-code {
-  font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
-  background-color: var(--background-secondary);
-  padding: 0.2em 0.4em;
-  border-radius: 3px;
-  font-size: 0.9em;
+.work-item {
+  margin-bottom: 0.5rem;
 }
 
-.post {
-  margin-bottom: 1rem;
+.work-item strong {
+  font-weight: 600;
 }
 
 .post-date {
-  font-size: 0.9rem;
-  color: #777;
+  color: #5f6368;
   margin-right: 0.5rem;
+}
+
+#posts .post-item {
+  margin-bottom: 0.5rem;
 }

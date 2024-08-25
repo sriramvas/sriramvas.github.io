@@ -11,7 +11,7 @@ slug: reality
 
 ## Perception
 
-![](https://invertedpassion.com/wp-content/uploads/2021/01/gallery_1425045941-kq2pcqd8jgz7mr0hnz63.png)
+![image](https://github.com/user-attachments/assets/ea4e28ad-5ded-46d8-803f-5d895994e936)
 
 Illusions show that we do not see reality as it is. For example, patches A and B in the image below are of the same color (which means the photons arriving from these two patches are of the same wavelength).
 
@@ -29,7 +29,7 @@ this is an important concept that highlights, **all new knowledge can only be un
 It's turtles all the way down!
 
 ## Maths
-![maths](https://i.imgur.com/Uai7HJC.png)
+![image](https://github.com/user-attachments/assets/303046e7-4b82-4bde-bb5c-7833cb1105ac)
 
 ## Physics
 Add about Measurements

@@ -2,6 +2,7 @@
 layout: post
 title: "Reality Check"
 date: 2024-08-24
+slug: reality
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reality is that which does not go away when you stop thinking about it.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1805506224034926809?ref_src=twsrc%5Etfw">June 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

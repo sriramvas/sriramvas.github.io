@@ -22,10 +22,9 @@ layout: default
 
     <ul>
     {% for post in site.posts %}
-        <li>
             <span class="post-date">{{ post.date | date: "%b '%y" }}</span>
             <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
-        </li>
+        <br>
     {% endfor %}
     </ul>
 </div>

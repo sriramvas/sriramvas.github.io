@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The truth shall set you free"
+title: "Reality Check"
 date: 2024-08-24
 ---
 

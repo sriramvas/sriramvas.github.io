@@ -2,3 +2,5 @@ name: Your Site Name
 title: Your Site Title
 baseurl: ""
 url: "https://sriramvas.github.io"
+theme: null
+remote_theme: null

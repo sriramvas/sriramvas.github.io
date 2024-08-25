@@ -11,6 +11,10 @@ body {
     min-height: 100vh;
 }
 
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    display: none !important;
+}
+
 .container {
     background-color: white;
     box-shadow: 0 0 20px rgba(0,0,0,0.1);

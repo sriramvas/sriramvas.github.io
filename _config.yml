@@ -1,6 +1,7 @@
-name: Your Site Name
+name: Sriram Blog
 title: Sriram Vasudevan
 baseurl: ""
 url: "https://sriramvas.github.io"
 theme: null
 remote_theme: null
+permalink: /:slug.html

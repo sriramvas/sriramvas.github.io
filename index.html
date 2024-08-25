@@ -1,33 +1,29 @@
 ---
 layout: default
 ---
-    <h1>Hi, there 👋</h1>
-    
-    <p>I'm Sriram, and am based in Chennai. Welcome to my home on the interweb!</p>
-    
-    <p>Professionally, am a startup operator helping out teams with marketing & strategy. The rest of my time, am traveling, nerding out on philosophy, or playing football with the gang.</p>
-    
-    <p>Feel free to drop a hi on X/twt if you want to chat :)</p>
-    
-    <h2>Work</h2>
-    
-    <div class="work-item">
-        <strong>Socket</strong> --- lead marketing and comms to help spread the chain abstraction gospel.
-    </div>
-    
-    <div class="work-item">
-        <strong>Bungee</strong> --- shitposting and growing Bungee into the #1 bridge for DeFi
-    </div>
-    
-    <p>In my past life I was contributing at IndexCoop, SuperTeam and education NGOs.</p>
-    
-    <h2>Posts</h2>
-    
-    <ul>
-    {% for post in site.posts %}
-        <li>
-            <span>{{ post.date | date: "%b '%y" }}</span>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-        </li>
-    {% endfor %}
-    </ul>
+<h1>Hi, there 👋</h1>
+
+<p>I'm Sriram, and am based in Chennai. Welcome to my home on the interweb!</p>
+
+<p>Professionally, am a startup operator helping out teams with marketing & strategy. The rest of my time, am traveling, nerding out on philosophy, or playing football with the gang.</p>
+
+<p>Feel free to drop a hi on X/twt if you want to chat :)</p>
+
+<h2>Work</h2>
+
+<p><strong>Socket</strong> --- lead marketing and comms to help spread the chain abstraction gospel.</p>
+
+<p><strong>Bungee</strong> --- shitposting and growing Bungee into the #1 bridge for DeFi</p>
+
+<p>In my past life I was contributing at IndexCoop, SuperTeam and education NGOs.</p>
+
+<h2>Posts</h2>
+
+<ul>
+{% for post in site.posts %}
+    <li>
+        <span class="post-date">{{ post.date | date: "%b '%y" }}</span>
+        <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>

@@ -7,7 +7,7 @@ slug: reality
 
 ![image](https://github.com/user-attachments/assets/538674ed-1c86-4efa-9fe9-59558271d385)
 
-Have you ever stopped to think about what reality really is? 
+Have you ever stopped to think about what reality is? 
 
 I mean, it's all around us, but it's like trying to describe water to a fish – we're so immersed in it that we barely notice it.
 
@@ -17,39 +17,51 @@ But what if I told you that this question is, in fact, far from answered? Even w
 
 ## Perception
 
-Let's start with something we all trust: our eyes.
+Let's start with something we all trust: our eyes. Take a look at the image below. 
 
 ![image](https://github.com/user-attachments/assets/ea4e28ad-5ded-46d8-803f-5d895994e936)
 
-Take a look at the image above. See those squares labeled A and B? Believe it or not, they're the same color.
+See those squares labeled A and B? Believe it or not, they're the same color.
 
 Wild, right? Our brains are playing tricks on us. This little illusion shows us that what we see isn't always what's really there. It's like our brain is an overeager Instagram filter, that tweaks reality before we even realize it.
 
-While we usually assume eyes to create accurate representations of the world, our perception is shaped by context, expectations, and the way our brains process information more than we realize.
-
-## Concepts
-<iframe class="youtube-video" src="https://www.youtube.com/embed/MO0r930Sn_8?si=aSfWvgasXPWbmAWJ&amp;controls=0"></iframe>
-
-*say you visit a village in africa, and want to explain a child about "existence of Burj-Khalifa". there is an added condition - you cannot use attributes of existing things the child knows.*
-
-without using building, tall, glass, skyscraper, dubai, you can never convey Burj-Khalifa to the child 
-
-this is an important concept that highlights, **all new knowledge can only be understood if it fits within our existing mental models**
-
-It's turtles all the way down!
-
-## Maths
-![image](https://github.com/user-attachments/assets/303046e7-4b82-4bde-bb5c-7833cb1105ac)
+Every human perception is shaped by context, expectations, and the way our brains process information more than we realize.
 
 ## Physics
-Add about Measurements
+
+Similar to the eyes, measurements we make to probe reality are also limited by the precision of our instruments.
+
+As scientists continue to study the nature of reality, from the subatomic to the cosmic scale, we see things become more empty and bizarre the deeper we go. 
+
+This begs the question - when we measure anything physical, is it actual readings from reality or just the least count reading from the instrument?
 
 ## Language
 <iframe class="youtube-video" src="https://www.youtube.com/embed/mGYmiQkah4o?si=drr2g2gL19cuBc13"></iframe>
 
-Words are merely tags that point to shared experiences. The word "red" doesn't encode the actual experience of seeing red.
+Language, our primary tool for communicating about reality, introduces its own set of limitations. 
 
-Language is, hence at best, a low-resolution translator of reality.
+Words are merely tags that point to shared experiences. The word "red" doesn't encode the actual experience of seeing red; it's a shorthand for a complex sensory and neurological process.
+
+Language is, at best, a low-resolution translator of reality. It allows us to share ideas and experiences, but it also shapes and constrains our thinking.
+
+## Concepts
+<iframe class="youtube-video" src="https://www.youtube.com/embed/MO0r930Sn_8?si=aSfWvgasXPWbmAWJ&amp;controls=0"></iframe>
+
+Now, let's try a little thought experiment. 
+
+Imagine you're in a small village in Africa, trying to explain the Burj Khalifa to a child who's never left their village. Oh, and here's the catch – you can't use words like "building," "tall," "glass," or "city."
+
+Tough, isn't it? This isn't just a fun game – it shows us something important. We can only understand new things by relating them to stuff we already know. It's like our knowledge is a big Lego structure, and we can only add new pieces that fit with what we've already built.
+
+## Maths
+
+<img width="768" alt="image" src="https://github.com/user-attachments/assets/f8f1b664-7d57-4ed6-972f-d158e982b203">
+
+Well definitely maths should help us? World is just numbers at the end of the day right? right?
+
+Maths allows us to model complex systems and uncover patterns that might otherwise remain hidden. However, it's crucial to remember that mathematics is a language we've created to describe reality, not reality itself.
+
+There is a reason why mathematicians need to keep inventing newer sets of numbers every few years!
 
 ## Logic
  lets begin with a quote "logic isn't supposed to tell us what is true, it is supposed to tell us what follows from what."

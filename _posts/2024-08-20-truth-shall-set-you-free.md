@@ -4,6 +4,7 @@ title: "The truth shall set you free"
 date: 2024-08-24
 slug: truth
 ---
+TEST TEST
 
 Truth, in its purest form, is something that remains constant, regardless of our awareness or perception of it. It is an absolute that exists independently of our knowledge or beliefs. 
 
@@ -24,7 +25,7 @@ If the truth is already here, why do you still feel like a mortal?
 To navigate this we need a quick primer on how perception works and we call upon the proverbial Vedantic snake!
 
 Imagine walking in a dimly lit room and seeing what appears to be a snake.
-![Premium Photo | Thick fabric rope Generative AI](https://img.freepik.com/premium-photo/thick-fabric-rope-generative-ai_845977-2810.jpg)
+![image](https://github.com/user-attachments/assets/f3c9c44b-79c8-4e32-8c44-8fbef8ba6e6a)
 
 Your heart races, you feel fear. 
 

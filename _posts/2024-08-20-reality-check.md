@@ -18,7 +18,7 @@ Illusions show that we do not see reality as it is. For example, patches A and B
  You can verify that the colors in the two patches are exactly the same via a color picker app.  **Yet our mind sees them as completely different colors**. This clearly demonstrates that, at least in this case, we’re not seeing reality as it is.
 
 ## Concepts
-<iframe class="youtube-video" src="https://youtu.be/MO0r930Sn_8?si=eCMpo9GHahCdr1o5" title="YouTube video player"></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/MO0r930Sn_8?si=aSfWvgasXPWbmAWJ&amp;controls=0"></iframe>
 
 *say you visit a village in africa, and want to explain a child about "existence of Burj-Khalifa". there is an added condition - you cannot use attributes of existing things the child knows.*
 
@@ -35,7 +35,7 @@ It's turtles all the way down!
 Add about Measurements
 
 ## Language
-<iframe class="youtube-video" src="https://youtu.be/mGYmiQkah4o?si=UEh6rh7-OIpJgcVG" title="YouTube video player"></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/mGYmiQkah4o?si=drr2g2gL19cuBc13"></iframe>
 
 Words are merely tags that point to shared experiences. The word "red" doesn't encode the actual experience of seeing red.
 

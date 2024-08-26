@@ -5,17 +5,27 @@ date: 2024-08-24
 slug: reality
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reality is that which does not go away when you stop thinking about it.</p>&mdash; Naval (@naval) <a href="https://twitter.com/naval/status/1805506224034926809?ref_src=twsrc%5Etfw">June 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ![image](https://github.com/user-attachments/assets/538674ed-1c86-4efa-9fe9-59558271d385)
+
+Have you ever stopped to think about what reality really is? 
+
+I mean, it's all around us, but it's like trying to describe water to a fish – we're so immersed in it that we barely notice it.
+
+Now, you might think, "Well, that's easy. Science has it all figured out, right?". We're taught that everything is made of atoms, that it all started with the Big Bang, we evolved from apes and so on.
+
+But what if I told you that this question is, in fact, far from answered? Even with all our knowledge, we're still barely scratching the surface - and might forever do so!
 
 ## Perception
 
+Let's start with something we all trust: our eyes.
+
 ![image](https://github.com/user-attachments/assets/ea4e28ad-5ded-46d8-803f-5d895994e936)
 
-Illusions show that we do not see reality as it is. For example, patches A and B in the image below are of the same color (which means the photons arriving from these two patches are of the same wavelength).
+Take a look at the image above. See those squares labeled A and B? Believe it or not, they're the same color.
 
- You can verify that the colors in the two patches are exactly the same via a color picker app.  **Yet our mind sees them as completely different colors**. This clearly demonstrates that, at least in this case, we’re not seeing reality as it is.
+Wild, right? Our brains are playing tricks on us. This little illusion shows us that what we see isn't always what's really there. It's like our brain is an overeager Instagram filter, that tweaks reality before we even realize it.
+
+While we usually assume eyes to create accurate representations of the world, our perception is shaped by context, expectations, and the way our brains process information more than we realize.
 
 ## Concepts
 <iframe class="youtube-video" src="https://www.youtube.com/embed/MO0r930Sn_8?si=aSfWvgasXPWbmAWJ&amp;controls=0"></iframe>

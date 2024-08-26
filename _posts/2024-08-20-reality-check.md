@@ -36,7 +36,8 @@ Add about Measurements
 
 ## Language
 <iframe class="youtube-video" src="https://www.youtube.com/embed/MO0r930Sn_8?si=XdkW6R13xbT85b9Q" title="YouTube video player"></iframe>
--   Words are merely tags that point to shared experiences. The word "red" doesn't encode the actual experience of seeing red.
+
+Words are merely tags that point to shared experiences. The word "red" doesn't encode the actual experience of seeing red.
 
 Language is, hence at best, a low-resolution translator of reality.
 

@@ -1,7 +1,7 @@
 name: Sriram Blog
 title: Sriram Vasudevan
 baseurl: ""
-url: "https://sriramvas.github.io"
+url: "https://www.sriramvas.xyz"
 theme: null
 remote_theme: null
 permalink: /:slug.html

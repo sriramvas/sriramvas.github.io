@@ -114,6 +114,11 @@ li a, p a {
     }
 }
 
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
 .post-date {
     color: #888;
     font-weight: normal;

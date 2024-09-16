@@ -70,11 +70,11 @@ Logic is like a chain, linking ideas together. It shows how one thing leads to a
 It doesn't create new facts, but helps us see what comes from the facts we already have.
 Take this example:
 
-> All dogs have tails.
+> _All dogs have tails._
 >
-> Fido is a dog.
+> _Fido is a dog._
 >
-> So, Fido must have a tail.
+> _So, Fido must have a tail._
 
 The conclusion just follows from the first two statements. But here's the tricky part - logic relies on those starting statements being true. And often, those statements come from what we observe in the world, not from logic itself.
 

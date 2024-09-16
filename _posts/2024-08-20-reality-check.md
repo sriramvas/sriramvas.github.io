@@ -86,21 +86,12 @@ Take this example:
 
 The conclusion just follows from the first two statements. But here's the tricky part - logic relies on those starting statements being true. And often, those statements come from what we observe in the world, not from logic itself.
 
-## Faith
+## Your World Model needs an upgrade!
 
-it's like saying we have a problem, we need a variable X to solve it
+In our modern world, it's easy to feel like science has it all figured out. We've split atoms, explored distant planets, and mapped the human genome. 
 
-just the above can be a big leap for many. here is an example.
+But our journey through the nature of perception, measurement, and knowledge reveals that we have gaping unknowns that stare at us all the time. Even math, logic, and language—our most trusted tools—only give us a glimpse of the bigger picture.
 
-when your math teacher says we need X to solve the equation: 
-- we don't immediately ask what is X?
-- why do we need that? 
-- you are just drawing a cross on the board, how will it help us?
+If you found solace in science as the broker and authority on reality, this article could convince you that science and maths give us useful approximations but isn't scratching reality in the first place. 
 
-instead of asking these, we trust the teacher's take, follow the math, and voila the problem is solved and X now has a value - the teacher was right!
-
-We demand a similar openness here as we uncover truth.
-
-Why do we need truth to exist, and why must it be unknown? These questions form the foundation of our epistemological journey. The concept of an unknown truth acts as a placeholder, much like a variable in mathematics. When a math teacher introduces 'X' to solve an equation, we don't question its existence or purpose; we trust the process and follow along. Similarly, in our pursuit of knowledge, we must remain open to the possibility of an unknown truth that guides our inquiry.
-
-https://www.quantamagazine.org/theories-of-everything-mapped-20150803/
+Yet, this isn’t a reason to give up—it’s a reminder to seek reality harder - beacause it's staring at you all the time! 

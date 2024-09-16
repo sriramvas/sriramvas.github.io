@@ -33,7 +33,14 @@ Similar to the eyes, measurements we make to probe reality are also limited by t
 
 As scientists continue to study the nature of reality, from the subatomic to the cosmic scale, we see things become more empty and bizarre the deeper we go. 
 
-This begs the question - when we measure anything physical, is it actual readings from reality or just the least count reading from the instrument?
+The Large Hadron Collider (LHC) at CERN, with its 27-kilometer circumference, is currently the world's largest and most powerful particle accelerator. Yet, to probe even smaller scales and higher energies, scientists are already planning even larger colliders.
+
+Similarly, to observe distant celestial objects and phenomena, we need increasingly large telescopes and sophisticated detection systems. 
+
+This trend however raises questions about the nature of measurement and reality itself. 
+
+When we measure anything physical, are we obtaining actual readings from reality, or are we simply recording the least count reading from our instruments?
+![just](https://github.com/user-attachments/assets/094847b5-4a05-43b9-aa1b-074608503bf7)
 
 ## Language
 <iframe class="youtube-video" src="https://www.youtube.com/embed/mGYmiQkah4o?si=drr2g2gL19cuBc13"></iframe>

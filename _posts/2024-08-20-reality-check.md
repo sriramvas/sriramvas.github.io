@@ -40,7 +40,8 @@ Similarly, to observe distant celestial objects and phenomena, we need increasin
 This trend however raises questions about the nature of measurement and reality itself. 
 
 When we measure anything physical, are we obtaining actual readings from reality, or are we simply recording the least count reading from our instruments?
-![just](https://github.com/user-attachments/assets/094847b5-4a05-43b9-aa1b-074608503bf7)
+
+![image](https://github.com/user-attachments/assets/094847b5-4a05-43b9-aa1b-074608503bf7)
 
 ## Language
 <iframe class="youtube-video" src="https://www.youtube.com/embed/mGYmiQkah4o?si=drr2g2gL19cuBc13"></iframe>

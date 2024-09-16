@@ -71,7 +71,9 @@ It doesn't create new facts, but helps us see what comes from the facts we alrea
 Take this example:
 
 > All dogs have tails.
+>
 > Fido is a dog.
+>
 > So, Fido must have a tail.
 
 The conclusion just follows from the first two statements. But here's the tricky part - logic relies on those starting statements being true. And often, those statements come from what we observe in the world, not from logic itself.

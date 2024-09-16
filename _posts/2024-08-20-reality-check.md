@@ -64,16 +64,17 @@ Maths allows us to model complex systems and uncover patterns that might otherwi
 There is a reason why mathematicians need to keep inventing newer sets of numbers every few years!
 
 ## Logic
- lets begin with a quote "logic isn't supposed to tell us what is true, it is supposed to tell us what follows from what."
-- logic is transitive and causal, it shows how you link 2 or more chain of rules together
-- Logic essentially consists in a set of operations for deriving a statement from other statements. It brings nothing new to the table. 
-- The conclusion merely flows from the premises as their inevitable consequence:
-	1. All birds have feathers. (Premise 1)
-	2. Woodpeckers are birds. (Premise 2)
-	3. Therefore, woodpeckers have feathers. (Conclusion)
-- However the major problem with logic here is that it relies on premises that are founded, not on logic itself, but on inductive reasoning
+"Logic isn't supposed to tell us what is true, it is supposed to tell us what follows from what." This quote nicely sums up the power and limits of logic. Here's a simple way to think about it:
 
-While powerful, logic is fundamentally a tool for deriving statements from other statements. It doesn't generate new information but reveals what follows from our premises. Moreover, these premises often rely on inductive reasoning rather than pure logic.
+Logic is like a chain, linking ideas together. It shows how one thing leads to another.
+It doesn't create new facts, but helps us see what comes from the facts we already have.
+Take this example:
+
+> All dogs have tails.
+> Fido is a dog.
+> So, Fido must have a tail.
+
+The conclusion just follows from the first two statements. But here's the tricky part - logic relies on those starting statements being true. And often, those statements come from what we observe in the world, not from logic itself.
 
 ## Faith
 

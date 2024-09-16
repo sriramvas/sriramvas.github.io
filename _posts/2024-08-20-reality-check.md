@@ -90,8 +90,8 @@ The conclusion just follows from the first two statements. But here's the tricky
 
 In our modern world, it's easy to feel like science has it all figured out. We've split atoms, explored distant planets, and mapped the human genome. 
 
-But our journey through the nature of perception, measurement, and knowledge reveals that we have gaping unknowns that stare at us all the time. Even math, logic, and language—our most trusted tools—only give us a glimpse of the bigger picture.
+But our journey through the nature of perception, measurement, and knowledge reveals that we have gaping unknowns that stare at us all the time. Even math, and language—our most trusted tools—only give us a glimpse of the bigger picture.
 
-If you found solace in science as the broker and authority on reality, this article could convince you that science and maths give us useful approximations but isn't scratching reality in the first place. 
+If you found solace in science as the broker and authority of reality, this article should convince you that science and maths give us useful approximations but aren't scratching reality in the first place.
 
-Yet, this isn’t a reason to give up—it’s a reminder to seek reality harder - because it's staring at you all the time! 
+Yet, this isn’t a reason to give up—it’s a reminder to seek reality harder - because it's staring at you all the time!

@@ -92,7 +92,7 @@ In our modern world, it's easy to feel like science has it all figured out. We'v
 
 But our journey through the nature of perception, measurement, and knowledge reveals that we have gaping unknowns that stare at us all the time. Even math, and language—our most trusted tools—only give us a glimpse of the bigger picture.
 
-![image](https://github.com/user-attachments/assets/facccba9-4dee-47ab-88ff-953b95bda398)
+![image](https://github.com/user-attachments/assets/6cfc12d0-386f-43f7-8403-438940fa2c4f)
 
 If you found solace in science as the broker and authority of reality, this article should convince you that science and maths give us useful approximations but aren't scratching reality in the first place.
 

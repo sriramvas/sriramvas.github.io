@@ -12,6 +12,8 @@ body {
     --font-mono: 'IBM Plex Mono', 'Menlo', 'Monaco', monospace;
     --foreground-default: #222;
     --foreground-light: #778;
+    --background-default: #fafafa;
+    --background-block: #eee;
 }
 
 html {

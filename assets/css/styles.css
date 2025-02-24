@@ -1,162 +1,141 @@
 ---
 ---
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 html,
 body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    --foreground-default: #000;
-    --foreground-secondary: #555;
-    --background-default: #fff;
+    --font-serif: 'IBM Plex Serif', 'Times New Roman', serif;
+    --font-mono: 'IBM Plex Mono', 'Menlo', 'Monaco', monospace;
+    --foreground-default: #222;
+    --foreground-light: #778;
+    --background-default: #fafafa;
+    --background-block: #eee;
 }
 
 html {
-    font-size: 16px;
-    line-height: 1.5;
+    font-size: 18px;
+    line-height: 1.6111;
 }
 
 body {
-    font-family: var(--font-sans);
+    font-family: var(--font-serif);
     color: var(--foreground-default);
     background: var(--background-default);
     display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-}
-
-header,
-footer {
-    flex-grow: 0;
-    flex-shrink: 0;
-}
+@@ -38,93 +35,128 @@ footer {
 
 main {
     flex-shrink: 0;
-    width: 100%;
-    max-width: 650px;
+    width: calc(100% - 6em);
+    padding: 0 1em;
     margin: 0 auto;
-    padding: 0 20px;
+    background: #fff;
+    box-shadow: 0 12px 24px -4px rgba(0, 0, 0, 0.08);
 }
 
 img {
     max-width: 100%;
     height: auto;
-    margin: 1.5em 0;
+    margin: 1em 0;
 }
 
 a {
     color: var(--foreground-default);
-    text-decoration: none;
-}
 
-p a, li a {
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 2px;
-    background: none;
-    padding: 0;
 }
 
 h1, h2, h3 {
-    font-weight: 500;
-    letter-spacing: -0.02em;
-    line-height: 1.2;
-}
+    font-weight: normal;
+    padding-bottom: .125rem;
 
-h1 {
-    font-size: 1.75rem;
-    margin-top: 1em;
-    margin-bottom: 0.5em;
-}
 
-h2 {
-    font-size: 1.5rem;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-}
 
-h3 {
-    font-size: 1.25rem;
-    margin-top: 1.5em;
-    margin-bottom: 0.5em;
-}
-
-p, li {
-    margin: 1em 0;
-    color: var(--foreground-secondary);
-}
-
-/* Site title */
-.site-title {
-    text-align: center;
-    font-weight: 500;
-    letter-spacing: 0.1em;
-    margin: 2rem 0;
-}
-
-/* Hero section */
-.hero {
-    padding-top: 2rem;
-    margin-bottom: 3rem;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    padding-bottom: 1rem;
 }
 
 .hero h1 {
     margin-top: 0;
-    font-size: 1.75rem;
+    padding-bottom: 0;
+
 }
 
-/* Work section */
-.work-item {
-    margin-bottom: 0.75rem;
-    display: flex;
+h1 {
+    font-size: 2.5rem;
+
+
 }
 
-.work-item:before {
-    content: "— ";
-    margin-right: 0.5rem;
+h2 {
+    font-size: 1.5rem;
+
+
 }
 
-/* Posts section */
+h3 {
+    font-size: 1.25rem;
+
+
+}
+
+p, li {
+    margin: 0.7em 0;
+
+}
+
+li a, p a {
+    text-decoration: none;
+    padding: 0 3px;
+    background: rgba(0, 0, 0, .1);
+
+
+}
+
+
+.hero {
+    padding-top: 32px;
+    margin-bottom: 36px;
+
+
+}
+
+@media only screen and (min-width: 600px) {
+    main {
+        max-width: 780px;
+        margin: 2em auto;
+        padding: 0 2em;
+    }
+    h1, h2, h3 {
+        margin-top: 1em;
+        margin-bottom: .5em;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    main {
+        margin: 0;
+        max-width: unset;
+        width: calc(100% - 2em);
+        background: initial;
+        box-shadow: none;
+    }
+}
+
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
+
+
 .post-date {
     color: #888;
     font-weight: normal;
-    font-size: 0.9rem;
+
 }
 
 .post-title {
     color: #000;
     text-decoration: none;
-}
-
-.post-item {
-    margin-bottom: 1rem;
-}
-
-/* Mobile adjustments */
-@media only screen and (max-width: 760px) {
-    main {
-        width: calc(100% - 40px);
-    }
-}
-
-/* YouTube embeds */
-.youtube-video {
-    aspect-ratio: 16 / 9;
-    width: 100%;
-}
-
-/* Manifesto style (for pages like the second image) */
-.manifesto {
-    max-width: 650px;
-    margin: 0 auto;
-    padding: 2rem 20px;
-}
-
-.manifesto p {
-    margin-bottom: 1.5rem;
 }

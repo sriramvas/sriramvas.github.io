@@ -99,6 +99,9 @@ nav a:hover { color: var(--accent); }
 main p  { margin-bottom: 1.4rem; }
 main ul, main ol { margin: .2rem 0 1.4rem 1.4rem; }
 main li { margin-bottom: .35rem; }
+main h1 { margin-bottom: 1.4rem; }
+main h2 { margin-top: 2rem; margin-bottom: 1.4rem; }
+main h3 { margin-top: 1.5rem; margin-bottom: 1.4rem; }
 
 /* ── Post page ── */
 .post .back {
@@ -113,7 +116,7 @@ main li { margin-bottom: .35rem; }
 .post h1 {
   font-size: 1.9rem;
   line-height: 1.2;
-  margin-bottom: .35rem;
+  margin-bottom: 1.4rem;
   letter-spacing: -.03em;
 }
 

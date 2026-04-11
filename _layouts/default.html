@@ -20,3 +20,7 @@
   <span>personal site</span>
   <span>© {{ site.time | date: "%Y" }}</span>
 </footer>
+
+{% for post in site.posts %}
+<link rel="prefetch" href="{{ post.url | relative_url }}">
+{% endfor %}

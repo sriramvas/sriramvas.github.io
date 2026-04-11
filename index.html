@@ -1,28 +1,18 @@
 ---
 layout: default
+title: Sriram Vasudevan
 ---
-<div class="hero">
-    <h1>Hi, there 👋</h1>
-
-    <p>I'm <b>Sriram</b>, and am based in Chennai. Welcome to my home on the interweb!</p>
-
-    <p>Professionally, am a startup operator helping out teams with marketing & strategy. The rest of my time, am traveling, nerding out on philosophy, or playing football with the gang.</p>
-
-    <p>Feel free to drop a hi on  <a href="https://x.com/sriramvas">X/twt</a>  if you want to chat :)</p>
-
-    <h2>Work</h2>
-
-    <p><a href="https://x.com/SocketProtocol">Socket</a>  — lead marketing to help spread the chain abstraction gospel.</p>
-
-    <p><a href="https://x.com/BungeeExchange">Bungee</a>  — shitposting and growth </p>
-
-    <p>In my past life I was contributing at  <a href="https://indexcoop.com/">IndexCoop</a>,  <a href="https://superteam.fun/">SuperTeam</a>  and education NGOs.</p>
-
-    <h2>Posts</h2>
-
-    {% for post in site.posts %}
-                <span class="post-date">{{ post.date | date: "%b '%y" }}</span>
-            <a href="{{ post.url | relative_url }}" class="post-title">{{ post.title }}</a>
-    <br><br>
-    {% endfor %}
-</div>
+ 
+<ul class="posts">
+  {% for post in site.posts %}
+  <li>
+    <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
+    <span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      {% for tag in post.tags %}
+        <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </span>
+  </li>
+  {% endfor %}
+</ul>

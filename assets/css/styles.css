@@ -61,7 +61,11 @@ nav a {
 nav a:hover { color: var(--accent); }
 
 /* ── Post list (index) ── */
-.posts { list-style: none; }
+.posts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
 
 .posts li {
   display: flex;

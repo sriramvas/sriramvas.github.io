@@ -3,6 +3,7 @@ layout: post
 title: "Reality Check"
 date: 2024-08-24
 slug: reality
+tags: ["reality"]
 ---
 
 ![image](https://github.com/user-attachments/assets/538674ed-1c86-4efa-9fe9-59558271d385)

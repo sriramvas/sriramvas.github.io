@@ -92,6 +92,10 @@ nav a:hover { color: var(--accent); }
   color: var(--muted);
 }
 
+main p  { margin-bottom: 1.4rem; }
+main ul, main ol { margin: .2rem 0 1.4rem 1.4rem; }
+main li { margin-bottom: .35rem; }
+
 /* ── Post page ── */
 .post .back {
   font-family: monospace;
@@ -118,10 +122,6 @@ nav a:hover { color: var(--accent); }
   color: var(--muted);
   margin-bottom: 2.5rem;
 }
-
-.post p  { margin-bottom: 1.4rem; }
-.post ul, .post ol { margin: .2rem 0 1.4rem 1.4rem; }
-.post li { margin-bottom: .35rem; }
 
 .post blockquote {
   border-left: 3px solid var(--accent);
@@ -153,11 +153,6 @@ nav a:hover { color: var(--accent); }
   border-top: 1px solid #e5e2de;
   margin: 2rem 0;
 }
-
-/* ── About page ── */
-.about h1 { font-size: 1.9rem; margin-bottom: .35rem; letter-spacing: -.03em; }
-.about h2 { font-size: 1.25rem; margin: 2rem 0 .4rem; }
-.about p  { margin-bottom: 1.2rem; }
 
 /* ── Footer ── */
 footer {

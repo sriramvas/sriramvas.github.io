@@ -1,7 +1,4 @@
-name: Sriram Blog
 title: Sriram Vasudevan
 baseurl: ""
-url: "https://www.sriramvas.xyz"
-theme: null
-remote_theme: null
-permalink: /:slug.html
+url: "https://sriramvas.github.io"
+permalink: /:slug

@@ -4,9 +4,9 @@ title: About
 permalink: /about
 ---
 
-# Sriram Vasudevan
- 
-I'm based in Chennai. Welcome to my home on the interweb.
+## Hi, I am Sriram 👋
+
+Welcome to my home on the interweb.
  
 Professionally, I'm a startup operator helping teams with marketing & strategy. The rest of my time I'm traveling, nerding out on philosophy, or playing football with the gang.
  

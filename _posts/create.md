@@ -2,6 +2,7 @@
 layout: post
 title: "Why Create?"
 date: 2024-11-11
+slug: create
 tags: ["philosophy"]
 ---
 

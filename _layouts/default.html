@@ -1,15 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.title }}</title>
-    <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/styles.css' | relative_url }}">
-</head>
-<body>
-    <main>
-        {{ content }}
-    </main>
-</body>
-</html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ page.title | default: site.title }}</title>
+<link rel="icon" href="/favicon.ico">
+<link rel="stylesheet" href="/assets/css/styles.css">
+
+<header>
+  <a class="logo" href="/">{{ site.title }}</a>
+  <nav>
+    <a href="/about">about</a>
+  </nav>
+</header>
+
+<main>
+  {{ content }}
+</main>
+
+<footer>
+  <span>words by sriram</span>
+  <span>© {{ site.time | date: "%Y" }}</span>
+</footer>
